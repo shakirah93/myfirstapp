@@ -1,5 +1,5 @@
 function Welcome(props) {
-  return <h3>Welcome, {props.nameProps}</h3>;
+  return <h3>Welcome, {props.nameProps} </h3>;
 }
 
-export default Welcome;
+export default Welcome; //default export
